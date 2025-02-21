@@ -103,9 +103,9 @@ export const HERO_TITLES = ['Dhaval Patel', 'Full-stack Developer', 'Javascript 
 export const aboutParagraph =
   'Highly motivated and enthusiastic Full Stack Developer with experience in designing, developing and maintaining web applications using technologies such as JavaScript, React, Node.js. ';
 
-export const contactEmail = 'works.dhaval@gmail.com';
+export const contactEmail = 'pranjulit4708@gmail.com';
 
-export const documentTitle = 'Hello I am Dhaval Patel | Full Stack Developer | Javascript Enthusiast'
+export const documentTitle = 'Hello I am Pranjul Pal | Full Stack Developer | Javascript Enthusiast'
 
 
 ```
@@ -151,7 +151,7 @@ If you want to add more, Please don't hesitate to open a [pull request](https://
 
 ##  👋 Get in Touch
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dhavalcode?style=social)](https://twitter.com/dhavalCode)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dhavalcode?style=social)](https://twitter.com/PalPranjulist)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhavalcode) 
 
