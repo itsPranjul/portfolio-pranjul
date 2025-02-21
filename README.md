@@ -15,7 +15,7 @@
  - Highly customizable portfolio. You can easily customize it as you want.     
 
 ## Live Demo 🚀
-[don't click here](https://dhavalcode.com)
+[don't click here](https://portfolio-pranjul-dt3h.vercel.app/)
 
 ## Technologies Used 🖥️
 
@@ -85,20 +85,20 @@ PUBLIC_KEY= "YOUR PUBLIC KEY"
 ```javascript
 export const SOCIAL_LINKS = [
   {
-    link: 'https://twitter.com/dhavalCode',         // <--- Social handle Link
+    link: 'https://twitter.com/PalPranjulist',         // <--- Social handle Link
     icon: 'akar-icons:twitter-fill',          // <--- Iconify Icon name
   },
   {
-    link: 'https://github.com/dhavalcode',
+    link: 'https://github.com/itsPranjul',
     icon: 'akar-icons:github-fill',
   },
   {
-    link: 'https://linkedin.com/in/dhavalcode',
+    link: 'https://linkedin.com/in/pranjul-pal',
     icon: 'akar-icons:linkedin-fill',
   },
 ];
 
-export const HERO_TITLES = ['Dhaval Patel', 'Full-stack Developer', 'Javascript Enthusiast'];
+export const HERO_TITLES = ['Pranjul Pal', 'Full-stack Developer', 'Javascript Enthusiast'];
 
 export const aboutParagraph =
   'Highly motivated and enthusiastic Full Stack Developer with experience in designing, developing and maintaining web applications using technologies such as JavaScript, React, Node.js. ';
@@ -138,22 +138,18 @@ export const documentTitle = 'Hello I am Pranjul Pal | Full Stack Developer | Ja
 
 
 ## Deploy on Vercel
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FdhavalCode%2Fdev-portfolio%2F)
+[![Deploy with Vercel](https://vercel.com/button)](https://portfolio-pranjul-dt3h.vercel.app/)
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 
-## For the Future
-If you want to add more, Please don't hesitate to open a [pull request](https://github.com/dhavalCode/dev-portfolio/pulls).
-
-
 ##  👋 Get in Touch
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dhavalcode?style=social)](https://twitter.com/PalPranjulist)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhavalcode) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjul-pal-77302316b) 
 
 
 
