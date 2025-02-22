@@ -18,6 +18,6 @@ export const HERO_TITLES = ['Pranjul Pal', 'Full-stack Engineer', 'AI Enthusiast
 export const aboutParagraph =
   'Highly motivated and enthusiastic Full Stack Engineer with practical experience in designing, developing and maintaining full stack applications using technologies such as Generative AI, Typescript, React.js, Next.js, Node.js, Python.';
 
-export const contactEmail = 'pranjulit4708@gmail.com';
+export const contactEmail = '95pranjulpal95@gmail.com';
 
 export const documentTitle = 'Hello I am Pranjul Pal | Full Stack Engineer | AI Enthusiast| Frontend Developer | Backend Developer'
