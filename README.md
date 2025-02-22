@@ -147,7 +147,7 @@ Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment)
 
 ##  👋 Get in Touch
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dhavalcode?style=social)](https://twitter.com/PalPranjulist)
+[![Twitter Follow](https://img.shields.io/twitter/follow/pranjul?style=social)](https://twitter.com/PalPranjulist)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjul-pal-77302316b) 
 
